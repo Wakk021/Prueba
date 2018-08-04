@@ -3,3 +3,6 @@
     border-radius: 1px;
     text-align: center;
 }
+.prueba{
+    backface-visibility: hidden;
+}
